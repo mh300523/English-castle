@@ -704,6 +704,28 @@ footer
 html[dir="rtl"] footer{
   direction: ltr;
 }
+.fixed-whats
+{
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--white-color);
+  padding: 0 20px;
+}
+.fixed-whats > i
+{
+  font-size: 40px;
+}
+.fixed-whats .contact-via
+{
+  font-size: 14px;
+  font-family: "GE SS Two-Light";
+  margin-top: 5px;
+}
+.fixed-whats .contact-name
+{
+  font-weight: var(--font-normal);
+}
 .footer-row
 {
  padding-inline-start: 150px;
@@ -1101,6 +1123,10 @@ html[dir="rtl"] footer{
   .story-item .play-icon
   {
     font-size: 35px;
+  }
+  .fixed-whats
+  {
+    display: none;
   }
   .footer-row
   {
