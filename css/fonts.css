@@ -1,0 +1,51 @@
+
+
+@font-face {
+  font-family: 'GE SS Two-Light';
+  src: url('../webfonts/fonts-file/GESSTwoLight-Light.woff2') format('woff2'),
+      url('../webfonts/fonts-file/GESSTwoLight-Light.woff') format('woff'),
+      url('../webfonts/fonts-file/GESSTwoLight-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GE SS Two-Medium';
+  src: url('../webfonts/fonts-file/GESSTwoMedium-Medium.woff2') format('woff2'),
+      url('../webfonts/fonts-file/GESSTwoMedium-Medium.woff') format('woff'),
+      url('../webfonts/fonts-file/GESSTwoMedium-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GE SS Two-Bold';
+  src: url('../webfonts/fonts-file/GESSTwoBold-Bold.woff2') format('woff2'),
+      url('../webfonts/fonts-file/GESSTwoBold-Bold.woff') format('woff'),
+      url('../webfonts/fonts-file/GESSTwoBold-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial-bold';
+  src: url('../webfonts/fonts-file/Arial-BoldMT.woff2') format('woff2'),
+      url('../webfonts/fonts-file/Arial-BoldMT.woff') format('woff'),
+      url('../webfonts/fonts-file/Arial-BoldMT.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial-black';
+  src: url('../webfonts/fonts-file/Arial-Black.woff2') format('woff2'),
+      url('../webfonts/fonts-file/Arial-Black.woff') format('woff'),
+      url('../webfonts/fonts-file/Arial-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
