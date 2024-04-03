@@ -1,16 +1,4 @@
-$(window).on('load',function(){
-    
-    // Preloader
-    $('.load_overlay .wavy-loader').fadeOut(1000,
-    function()
-    {    
-        $('.load_overlay').fadeOut(1000,function(){ 
-            $(this).remove();
-        });
 
-    });
-
-});
 
 $(document).ready(function() {
     ///////// **searchbox** /////////
